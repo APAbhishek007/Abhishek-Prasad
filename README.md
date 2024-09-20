@@ -7,6 +7,8 @@ This project demonstrates a real-time AI image detection system built directly i
 - ✅ Toggle switch to turn AI on or off
 - ✅ Range slider to control frame rate
 
+## Try
+give it a try use this-  'https://apabhishek007.github.io/Abhishek-Prasad/'
 
 ## 🌐 Multiple browser support
 Probably this will work with the most browsers, but here is a list which browsers I have tested: 
